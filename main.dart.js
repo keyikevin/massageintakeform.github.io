@@ -28842,7 +28842,7 @@ aBk(){var s=A.aQ1("https://keyikevin.github.io/massageintakeform.github.io/")
 return s},
 aQ2(a){var s=A.aBk()
 if(s==null)return"#/intake/"+a
-return s+"/intake/"+a},
+return s+"/#/intake/"+a},
 aQ1(a){if(B.d.mF(a,"/"))return B.d.a1(a,0,a.length-1)
 return a},
 aM5(){var s,r=$.aER(),q=J.Nv(56,t.S)
